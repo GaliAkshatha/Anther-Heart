@@ -1,6 +1,6 @@
 Anther Heart
 Heart Disease Prediction System (Mini Project – 2025)
-
+<br>
 Anther Heart is a machine-learning based web application that predicts the risk of heart disease using patient health parameters.
 The system includes OCR-based report extraction, manual form prediction, SHAP explainability, and dashboards for patients, doctors, and hospitals.
 
